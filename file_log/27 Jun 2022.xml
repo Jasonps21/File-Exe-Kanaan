@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfM_xml_log xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <m_xml_log>
-    <datetime>23 May 2022 23:02:37</datetime>
+    <datetime>27 Jun 2022 10:21:14</datetime>
     <aktivitas>Admin Input Stok LOGIN</aktivitas>
     <data>username=admin&amp;password=123456&amp;id_outlet=1</data>
   </m_xml_log>
